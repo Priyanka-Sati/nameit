@@ -1,4 +1,4 @@
-#View Project -> https://priyanka-sati.github.io/nameit/
+# View Project -> https://priyanka-sati.github.io/nameit/
 
 You can find many related names to your keywords using this app. After selecting your choice it will redirect you to namecheap site to buy domain name.
 
