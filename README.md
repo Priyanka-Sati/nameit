@@ -1,3 +1,9 @@
+#View Project -> https://priyanka-sati.github.io/nameit/
+
+You can find many related names to your keywords using this app. After selecting your choice it will redirect you to namecheap site to buy domain name.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
